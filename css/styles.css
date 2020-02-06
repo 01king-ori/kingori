@@ -1,0 +1,9 @@
+
+.important{
+    color:yellowgreen;
+    font-variant-numeric: initial;
+}
+.unimportant{
+    color:brown;
+    font-kerning: initial;
+}
