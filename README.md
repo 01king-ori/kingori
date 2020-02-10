@@ -3,3 +3,5 @@
 ### I worked on this project alone but I was given advice by several people
 #### In the website I have used html and css so as to make the website appealing
 ##### One can check out at the website at github.com/01king-ori/kingori/new/gh-pages
+###### I have used mit license to license my work
+
